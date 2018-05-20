@@ -54,7 +54,7 @@ body {
 .feed {
   float: right;
   width: 50%;
-  padding-right: 5%;
+  padding: 1% 1%;
 }
 
 div {
@@ -81,7 +81,6 @@ a:hover {
 
 nav {
   position: fixed;
-  top: 30%;
   width: 50%;
   padding-left: 10%
 }
@@ -104,7 +103,6 @@ button#writeTweet {
 
 textarea {
   width: 98.5%;
-  right: 6px;
   border: thin solid black;
   border-radius: 5px;
   background-color: #bfd7ff;
